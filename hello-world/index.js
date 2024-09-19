@@ -1,4 +1,4 @@
 const hello = () => {
-    console.log("hello bitches B)");
+    console.log("hello bitches :D");
 };
 hello();
